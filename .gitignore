@@ -1,0 +1,13 @@
+# entorno y caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# fotos (pesan GB, no se suben)
+dataset/
+fotos_propias/
+fotos_prueba/
+
+# salida del modelo B (no se usa)
+salida_B/

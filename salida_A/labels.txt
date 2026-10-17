@@ -1,0 +1,9 @@
+battery
+cardboard
+clothes
+electronic
+glass
+metal
+paper
+plastic
+shoes
